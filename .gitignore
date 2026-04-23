@@ -1,0 +1,10 @@
+target/
+dist/
+build/
+*.class
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+nbproject/private/
